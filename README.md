@@ -15,6 +15,15 @@ The tasks have configured 3 C/C++ compilers:
 Additionally the tasks are configured to compile with latest C++ version (`-std=c++20`).
 In case an older compilation is required than the above argument can be altered as desired.
 
+## Building the file
+
+To build a file, perform the steps below:
+
+1. Select the file that needs to be built.
+2. Select Teminal Menu -> Run Task... -> Choose the Compiler
+
+> For Linux, Homebrew is used to install gcc and clang compilers
+
 ## Note
 
 Install the [C/C++ Extension Pack]([https://](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)) in VSCode.

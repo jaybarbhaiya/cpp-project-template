@@ -5,3 +5,5 @@
 *.ilk
 *.pdb
 *.obj
+
+*.out
